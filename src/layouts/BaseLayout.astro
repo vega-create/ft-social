@@ -1,0 +1,32 @@
+---
+import '../styles/global.css';
+import Analytics from '../components/Analytics.astro';
+import { categories } from '../data/tools';
+const currentPath = Astro.url.pathname;
+---
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="icon" type="image/svg+xml" href="/favicon.svg" /><Analytics /><slot name="head" /></head>
+<body class="min-h-screen flex flex-col bg-gray-50">
+  <header class="bg-white border-b border-gray-100 sticky top-0 z-50">
+    <div class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
+      <a href="/" class="flex items-center gap-2"><div class="w-9 h-9 bg-gradient-to-br from-purple-500 to-pink-500 rounded-xl flex items-center justify-center text-white font-bold text-sm">FT</div><span class="font-semibold text-gray-900 text-lg hidden sm:block">FreeToolkit <span class="text-purple-600">Social</span></span></a>
+      <nav class="flex items-center gap-1 text-sm">
+        <a href="/" class={`px-3 py-2 rounded-lg ${currentPath === '/' ? 'bg-purple-50 text-purple-700 font-medium' : 'text-gray-600 hover:text-gray-900'}`}>All Tools</a>
+        <a href="/blog/" class={`px-3 py-2 rounded-lg ${currentPath.startsWith('/blog') ? 'bg-purple-50 text-purple-700 font-medium' : 'text-gray-600 hover:text-gray-900'}`}>Blog</a>
+        <a href="/about/" class={`px-3 py-2 rounded-lg ${currentPath === '/about/' ? 'bg-purple-50 text-purple-700 font-medium' : 'text-gray-600 hover:text-gray-900'}`}>About</a>
+        <a href="/contact/" class={`px-3 py-2 rounded-lg ${currentPath === '/contact/' ? 'bg-purple-50 text-purple-700 font-medium' : 'text-gray-600 hover:text-gray-900'}`}>Contact</a>
+      </nav>
+    </div>
+  </header>
+  <main class="flex-1"><slot /></main>
+  <footer class="bg-white border-t border-gray-100 mt-16">
+    <div class="max-w-6xl mx-auto px-4 py-12">
+      <div class="grid md:grid-cols-4 gap-8">
+        <div><div class="flex items-center gap-2 mb-3"><div class="w-8 h-8 bg-gradient-to-br from-purple-500 to-pink-500 rounded-lg flex items-center justify-center text-white font-bold text-xs">FT</div><span class="font-semibold text-gray-900">FreeToolkit Social</span></div><p class="text-sm text-gray-500">Free social media tools for creators and marketers.</p></div>
+        <div><h4 class="font-semibold text-gray-900 mb-3 text-sm">Categories</h4><ul class="space-y-2">{categories.map(cat => (<li><a href={`/#${cat.id}`} class="text-sm text-gray-500 hover:text-purple-600">{cat.icon} {cat.name}</a></li>))}</ul></div>
+        <div><h4 class="font-semibold text-gray-900 mb-3 text-sm">Popular</h4><ul class="space-y-2"><li><a href="/hashtag-gen/" class="text-sm text-gray-500 hover:text-purple-600">Hashtag Generator</a></li><li><a href="/social-image-resize/" class="text-sm text-gray-500 hover:text-purple-600">Image Resizer</a></li><li><a href="/engagement-calc/" class="text-sm text-gray-500 hover:text-purple-600">Engagement Calc</a></li><li><a href="/bio-gen/" class="text-sm text-gray-500 hover:text-purple-600">Bio Generator</a></li></ul></div>
+        <div><h4 class="font-semibold text-gray-900 mb-3 text-sm">Legal</h4><ul class="space-y-2"><li><a href="/about/" class="text-sm text-gray-500 hover:text-purple-600">About</a></li><li><a href="/contact/" class="text-sm text-gray-500 hover:text-purple-600">Contact</a></li><li><a href="/privacy/" class="text-sm text-gray-500 hover:text-purple-600">Privacy</a></li></ul></div>
+      </div>
+      <div class="border-t border-gray-100 mt-8 pt-8 text-center text-sm text-gray-400">&copy; {new Date().getFullYear()} FreeToolkit. All rights reserved.</div>
+    </div>
+  </footer>
+</body></html>
