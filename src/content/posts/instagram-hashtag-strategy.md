@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current social recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1.2rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.8rem;">Hashtag Strategy Pyramid</div><div style="display: flex; flex-direction: column; align-items: center; gap: 0.3rem;"><div style="width: 40%; background: #dc2626; padding: 0.4rem; border-radius: 6px; text-align: center; font-size: 0.7rem; font-weight: 600; color: white;">3-5 Popular (100K+)</div><div style="width: 65%; background: #f59e0b; padding: 0.4rem; border-radius: 6px; text-align: center; font-size: 0.7rem; font-weight: 600; color: white;">5-10 Medium (10K-100K)</div><div style="width: 90%; background: #22c55e; padding: 0.4rem; border-radius: 6px; text-align: center; font-size: 0.7rem; font-weight: 600; color: white;">10-15 Niche (&lt;10K) ← Best discovery</div></div></div>
 Hashtags remain one of the most powerful discovery tools on Instagram. Using the right hashtags helps your content reach people beyond your existing followers.
 
 ## How Many Hashtags to Use

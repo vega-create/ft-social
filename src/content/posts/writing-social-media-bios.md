@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current social recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.6rem;">Perfect Bio Anatomy</div><div style="display: flex; flex-direction: column; gap: 0.3rem; font-size: 0.75rem;"><div style="background: #dbeafe; padding: 0.4rem 0.6rem; border-radius: 6px; border-left: 3px solid #2563eb;"><b>1.</b> Name + Title</div><div style="background: #dcfce7; padding: 0.4rem 0.6rem; border-radius: 6px; border-left: 3px solid #16a34a;"><b>2.</b> Value proposition</div><div style="background: #fef3c7; padding: 0.4rem 0.6rem; border-radius: 6px; border-left: 3px solid #d97706;"><b>3.</b> Social proof</div><div style="background: #fce7f3; padding: 0.4rem 0.6rem; border-radius: 6px; border-left: 3px solid #db2777;"><b>4.</b> Clear CTA</div><div style="background: #ede9fe; padding: 0.4rem 0.6rem; border-radius: 6px; border-left: 3px solid #7c3aed;"><b>5.</b> Link</div></div></div>
 Your social media bio is often the first impression people get. A well-crafted bio can convert visitors into followers and followers into customers.
 
 ## Key Elements

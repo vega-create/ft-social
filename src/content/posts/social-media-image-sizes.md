@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current social recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.6rem;">Optimal Image Sizes (2026)</div><div style="display: grid; grid-template-columns: auto 1fr; gap: 0.3rem; font-size: 0.75rem;"><div style="background: #E4405F; color: white; padding: 0.3rem 0.5rem; border-radius: 4px; font-weight: 600;">Instagram</div><div style="padding: 0.3rem;">1080×1080 (post), 1080×1920 (story)</div><div style="background: #1877F2; color: white; padding: 0.3rem 0.5rem; border-radius: 4px; font-weight: 600;">Facebook</div><div style="padding: 0.3rem;">1200×630 (shared link)</div><div style="background: #000000; color: white; padding: 0.3rem 0.5rem; border-radius: 4px; font-weight: 600;">X/Twitter</div><div style="padding: 0.3rem;">1600×900 (card)</div><div style="background: #0A66C2; color: white; padding: 0.3rem 0.5rem; border-radius: 4px; font-weight: 600;">LinkedIn</div><div style="padding: 0.3rem;">1200×627 (post)</div></div></div>
 Using correctly sized images on social media ensures your content looks professional and gets maximum engagement. Each platform has specific requirements.
 
 ## Instagram

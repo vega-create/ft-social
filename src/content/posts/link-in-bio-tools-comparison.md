@@ -14,8 +14,6 @@ faq:
   - q: "How often is this guide updated?"
     a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current social recommendations."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.6rem;">Link-in-Bio Feature Comparison</div><div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(90px, 1fr)); gap: 0.3rem; font-size: 0.75rem;"><div style="background: #dcfce7; padding: 0.4rem; border-radius: 6px; text-align: center;">✓ Free tier</div><div style="background: #dcfce7; padding: 0.4rem; border-radius: 6px; text-align: center;">✓ Custom domain</div><div style="background: #dcfce7; padding: 0.4rem; border-radius: 6px; text-align: center;">✓ Analytics</div><div style="background: #dcfce7; padding: 0.4rem; border-radius: 6px; text-align: center;">✓ Multi-links</div><div style="background: #dcfce7; padding: 0.4rem; border-radius: 6px; text-align: center;">✓ Themes</div></div></div>
 Instagram, TikTok, and other platforms limit you to one clickable link in your profile. Link-in-bio tools solve this by creating a landing page with multiple links.
 
 ## When You Need One
