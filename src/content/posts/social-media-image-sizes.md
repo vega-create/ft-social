@@ -4,7 +4,24 @@ description: "The definitive guide to image sizes and dimensions for all social 
 publishDate: "2026-02-01"
 category: "Reference"
 tags: ["images", "dimensions", "design"]
+image: "https://images.pexels.com/photos/5361247/pexels-photo-5361247.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Alphabet tiles forming 'Social Media' on a vibrant pink background, perfect for digital marketing themes."
+faq:
+  - q: "What should I know about social media image sizes?"
+    a: "This guide covers the essentials of social media image sizes with practical examples. Use our free social tools at freetoolkit.cc for instant calculations and conversions."
+  - q: "Are there free tools for this?"
+    a: "Yes! Visit social.freetoolkit.cc for free online tools. No sign-up, no download — just enter your data and get instant results."
+  - q: "How often is this guide updated?"
+    a: "We regularly update our guides with the latest information and best practices. Bookmark this page for the most current social recommendations."
 ---
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: #f9fafb; border-radius: 12px; border: 1px solid #e5e7eb;">
+<div style="font-weight: 700; font-size: 1rem; margin-bottom: 1rem; color: #111827;">📱 Social Media Image Sizes</div>
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;"><span style="width: 120px; font-size: 0.8rem; color: #374151;">Instagram</span><div style="flex: 1; background: #f3f4f6; border-radius: 6px; height: 24px; overflow: hidden;"><div style="width: 90%; height: 100%; background: linear-gradient(90deg, #3b82f6, #60a5fa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">1080×1080</div></div></div>
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;"><span style="width: 120px; font-size: 0.8rem; color: #374151;">Facebook</span><div style="flex: 1; background: #f3f4f6; border-radius: 6px; height: 24px; overflow: hidden;"><div style="width: 80%; height: 100%; background: linear-gradient(90deg, #8b5cf6, #a78bfa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">1200×630</div></div></div>
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;"><span style="width: 120px; font-size: 0.8rem; color: #374151;">Twitter/X</span><div style="flex: 1; background: #f3f4f6; border-radius: 6px; height: 24px; overflow: hidden;"><div style="width: 70%; height: 100%; background: linear-gradient(90deg, #10b981, #34d399); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">1600×900</div></div></div>
+<div style="display: flex; align-items: center; "><span style="width: 120px; font-size: 0.8rem; color: #374151;">LinkedIn</span><div style="flex: 1; background: #f3f4f6; border-radius: 6px; height: 24px; overflow: hidden;"><div style="width: 60%; height: 100%; background: linear-gradient(90deg, #f59e0b, #fbbf24); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">1200×627</div></div></div>
+</div>
 
 Using correctly sized images on social media ensures your content looks professional and gets maximum engagement. Each platform has specific requirements.
 
